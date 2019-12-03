@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Xiaoming Yu"
   avatar           : "xiaoming.jpg"
-  bio              : "Graduate student in School of Electronic and Computer Engineering at Peking University."
+  bio              : "Graduate student at Peking University."
   location         : "Shenzhen"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=rm2mVYoAAAAJ&hl"
   email            : "xiaomingyu@pku.edu.cn"
-  researchgate     :  "https://www.researchgate.net/profile/Xiaoming_Yu12"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-3352-0507"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
