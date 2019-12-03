@@ -22,7 +22,7 @@ Publications
 
 - **Multi-mapping Image-to-Image Translation with Central Biasing Normalization** <br> **Xiaoming Yu**, Zhenqiang Ying, Thomas Li, Shan Liu, Ge Li <br> ArXiv \| [Paper](https://arxiv.org/pdf/1806.10050.pdf) \| [Code](https://github.com/Xiaoming-Yu/DMIT/tree/master/models/modules)
 
-- **A new shadow removal method using color-lines** <br> **Xiaoming Yu**, Ge Li, Zhenqiang Ying, Xiaoqiang Guo <br> ACCV2018 \| [Paper](https://www.researchgate.net/profile/Xiaoming_Yu12/publication/318730124_A_New_Shadow_Removal_Method_Using_Color-Lines/links/59bf8bda458515e9cfd5098d/A-New-Shadow-Removal-Method-Using-Color-Lines.pdf) \| [Code](https://github.com/Xiaoming-Yu/ShadowRemoval)
+- **A new shadow removal method using color-lines** <br> **Xiaoming Yu**, Ge Li, Zhenqiang Ying, Xiaoqiang Guo <br> CAIP2017 \| [Paper](https://www.researchgate.net/publication/318730124) \| [Code](https://github.com/Xiaoming-Yu/ShadowRemoval)
 
 - **A two-stage biomedical event trigger detection method integrating feature selection and word embeddings** <br> Xinyu He, Lishuang Li, Yang Liu, **Xiaoming Yu**, Jun Meng <br> IEEE/ACM TCBB
 
