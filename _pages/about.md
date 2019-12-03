@@ -24,7 +24,7 @@ Publications
 
 - **A new shadow removal method using color-lines** <br> **Xiaoming Yu**, Ge Li, Zhenqiang Ying, Xiaoqiang Guo <br> CAIP2017 \| [Paper](https://www.researchgate.net/publication/318730124) \| [Code](https://github.com/Xiaoming-Yu/ShadowRemoval)
 
-- **A two-stage biomedical event trigger detection method integrating feature selection and word embeddings** <br> Xinyu He, Lishuang Li, Yang Liu, **Xiaoming Yu**, Jun Meng <br> IEEE/ACM TCBB
+- **A two-stage biomedical event trigger detection method integrating feature selection and word embeddings** <br> Xinyu He, Lishuang Li, Yang Liu, **Xiaoming Yu**, Jun Meng <br> IEEE/ACM TCBB \| [Paper](https://ieeexplore.ieee.org/document/7947109)
 
 Internships
 ------
