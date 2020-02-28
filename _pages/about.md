@@ -14,6 +14,8 @@ Currently, my main research insterests are in image processing and image generat
 
 Publications
 ------
+- **Deep Image Spatial Transformation for Person Image Generation** <br> Yurui Ren, **Xiaoming Yu**, Thomas H Li, Shan Liu, Ge Li <br> CVPR2020 \| [Paper](https://arxiv.org/pdf/) \| [Code](https://github.com/RenYurui/Global-Flow-Local-Attention)
+
 - **Multi-mapping Image-to-Image Translation via Learning Disentanglement** <br> **Xiaoming Yu**, Yuanqi Chen, Thomas Li, Shan Liu, Ge Li <br> NeurIPS2019 \| [Paper](https://arxiv.org/pdf/1909.07877.pdf) \| [Code](https://github.com/Xiaoming-Yu/DMIT)
 
 - **StructureFlow: Image Inpainting via Structure-aware Appearance Flow** <br> Yurui Ren, **Xiaoming Yu**, Ruonan Zhang, Thomas H Li, Shan Liu, Ge Li <br> ICCV2019 \| [Paper](https://arxiv.org/pdf/1908.03852.pdf) \| [Code](https://github.com/RenYurui/StructureFlow)
