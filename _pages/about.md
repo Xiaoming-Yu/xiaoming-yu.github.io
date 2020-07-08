@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Xiaoming, a third year graduate student in [Digital Media R&D Center](http://media.pkusz.edu.cn), Peking Univerity, advised by Prof. Ge Li.
-Before starting my M.S., I completed my B.S. in Computer Science and Technology from Dalian University of Technology in 2017.
-Currently, my main research insterests are in image processing and image generation.
+I am a researcher at Tencent.
+My main research insterests are in real time image processing and image generation.
+
+I obtained my M.S. from Peking Univerity, advised by Prof. **Ge Li** in [Digital Media Research Center](http://web.pkusz.edu.cn/ldm/).
+I completed my B.E. in Computer Science and Technology from Dalian University of Technology.
 
 Publications
 ------
@@ -27,9 +29,3 @@ Publications
 - **A new shadow removal method using color-lines** <br> **Xiaoming Yu**, Ge Li, Zhenqiang Ying, Xiaoqiang Guo <br> CAIP2017 \| [Paper](https://www.researchgate.net/publication/318730124) \| [Code](https://github.com/Xiaoming-Yu/ShadowRemoval)
 
 - **A two-stage biomedical event trigger detection method integrating feature selection and word embeddings** <br> Xinyu He, Lishuang Li, Yang Liu, **Xiaoming Yu**, Jun Meng <br> IEEE/ACM TCBB \| [Paper](https://ieeexplore.ieee.org/document/7947109)
-
-Internships
-------
-- [Peng Cheng Laboratory](http://www.pcl.ac.cn/), Shenzhen, China. &emsp; Jun. 2019 – Present
-
-- [Tencent Media Lab](https://avlab.qq.com), Shenzhen, China. &emsp; &emsp; Apr. 2019 – Jun. 2019

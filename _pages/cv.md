@@ -9,12 +9,14 @@ redirect_from:
 
 Education
 ------
-* B.S. in Computer Science and Technology, Dalian University of Technology, 2017
 * M.S. in Technology of Computer Application, Peking University, 2020
+* B.E. in Computer Science and Technology, Dalian University of Technology, 2017
 
-Internships
+Work Experiences
 ------
-- [Peng Cheng Laboratory](http://www.pcl.ac.cn/), Shenzhen, China. &emsp; Jun. 2019 – Present
+- [Tencent](https://www.tencent.com/), Shenzhen, China. &emsp; &emsp; May 2020 – Present
 
-- [Tencent Media Lab](https://avlab.qq.com), Shenzhen, China. &emsp; &emsp; Apr. 2019 – Jun. 2019
+- [Peng Cheng Laboratory](http://www.pcl.ac.cn/), Shenzhen, China. &emsp; Jun 2019 – May 2020
+
+
 
