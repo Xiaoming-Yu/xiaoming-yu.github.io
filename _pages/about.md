@@ -16,6 +16,8 @@ I completed my B.E. in Computer Science and Technology from Dalian University of
 
 Publications
 ------
+- **Toward Zero-Shot Unsupervised Image-to-Image Translation** <br> Yuanqi Chen, **Xiaoming Yu**, Shan Liu, Ge Li <br> ArXiv \| [Paper](https://arxiv.org/pdf/2007.14050.pdf)
+
 - **Deep Image Spatial Transformation for Person Image Generation** <br> Yurui Ren, **Xiaoming Yu**, Junming Chen, Thomas H Li, Ge Li <br> CVPR2020 \| [Paper](https://arxiv.org/pdf/2003.00696.pdf) \| [Code](https://github.com/RenYurui/Global-Flow-Local-Attention)
 
 - **Multi-mapping Image-to-Image Translation via Learning Disentanglement** <br> **Xiaoming Yu**, Yuanqi Chen, Thomas Li, Shan Liu, Ge Li <br> NeurIPS2019 \| [Paper](https://arxiv.org/pdf/1909.07877.pdf) \| [Code](https://github.com/Xiaoming-Yu/DMIT)
