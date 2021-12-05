@@ -8,11 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at Tencent.
-My main research insterests are in real time image processing and image generation.
+I am a researcher at Tencent Meeting (VooV Meeting).
+My main research insterests are in real time image processing.
 
 I obtained my M.S. from Peking Univerity, advised by Prof. **Ge Li** in [Digital Media Research Center](http://web.pkusz.edu.cn/ldm/).
 I completed my B.E. in Computer Science and Technology from Dalian University of Technology.
+
+Projects
+------
+- [Portrait Segmentation](https://mp.weixin.qq.com/s/Pf7RZqoIqTXSFOTLUG8EPQ)
+- [Gaze Redirection](https://mp.weixin.qq.com/s/Z7UxfeZ3JkKY7TgYI6gHXQ)
+- Real-Time Image & Video Super-Resolution
+- AutoDraw for Tencent Meeting Rooms
 
 Publications
 ------
