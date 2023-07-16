@@ -20,6 +20,7 @@ Projects
 - [Gaze Redirection](https://mp.weixin.qq.com/s/Z7UxfeZ3JkKY7TgYI6gHXQ)
 - Real-Time Image & Video Super-Resolution
 - AutoDraw for Tencent Meeting Rooms
+- Immersive 3D Video Conference System
 
 Publications
 ------
