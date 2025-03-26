@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-- **Toward Zero-Shot Unsupervised Image-to-Image Translation** <br> Yuanqi Chen, **Xiaoming Yu**, Shan Liu, Ge Li <br> ArXiv \| [Paper](https://arxiv.org/pdf/2007.14050.pdf)
+- **Zero-shot unsupervised image-to-image translation via exploiting semantic attributes** <br> Yuanqi Chen, **Xiaoming Yu**, Shan Liu, Wei Gao, Ge Li <br> ICV \| [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885622001184)
 
 - **Deep Image Spatial Transformation for Person Image Generation** <br> Yurui Ren, **Xiaoming Yu**, Junming Chen, Thomas H Li, Ge Li <br> CVPR2020 \| [Paper](https://arxiv.org/pdf/2003.00696.pdf) \| [Code](https://github.com/RenYurui/Global-Flow-Local-Attention)
 

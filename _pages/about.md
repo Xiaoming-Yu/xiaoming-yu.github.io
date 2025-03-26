@@ -8,23 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at Tencent Meeting (VooV Meeting).
-My main research insterests are in real time image processing.
+I am a senior researcher at Tencent.
+My primary research interests lie in Image Processing, 3D Reconstruction, and Multimodal LLMs.
 
-I obtained my M.S. from Peking Univerity, advised by Prof. **Ge Li** in [Digital Media Research Center](http://web.pkusz.edu.cn/ldm/).
-I completed my B.E. in Computer Science and Technology from Dalian University of Technology.
+I received my Master of Science degree from Peking Univerity, under the guidance of Professor **Ge Li** at the [Digital Media Research Center](http://web.pkusz.edu.cn/ldm/).
+I graduated with a Bachelor of Engineering in Computer Science and Technology from Dalian University of Technology.
 
 Projects
 ------
 - [Portrait Segmentation](https://mp.weixin.qq.com/s/Pf7RZqoIqTXSFOTLUG8EPQ)
 - [Gaze Redirection](https://mp.weixin.qq.com/s/Z7UxfeZ3JkKY7TgYI6gHXQ)
 - Real-Time Image & Video Super-Resolution
-- AutoDraw for Tencent Meeting Rooms
+- Automated Drawing System for Tencent Meeting Rooms
 - Immersive 3D Video Conference System
+- Multimodal application for Tencent Yuanbao Application
 
 Publications
 ------
-- **Toward Zero-Shot Unsupervised Image-to-Image Translation** <br> Yuanqi Chen, **Xiaoming Yu**, Shan Liu, Ge Li <br> ArXiv \| [Paper](https://arxiv.org/pdf/2007.14050.pdf)
+- **Zero-shot unsupervised image-to-image translation via exploiting semantic attributes** <br> Yuanqi Chen, **Xiaoming Yu**, Shan Liu, Wei Gao, Ge Li <br> ICV \| [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885622001184)
 
 - **Deep Image Spatial Transformation for Person Image Generation** <br> Yurui Ren, **Xiaoming Yu**, Junming Chen, Thomas H Li, Ge Li <br> CVPR2020 \| [Paper](https://arxiv.org/pdf/2003.00696.pdf) \| [Code](https://github.com/RenYurui/Global-Flow-Local-Attention)
 
