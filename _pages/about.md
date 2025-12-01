@@ -20,11 +20,13 @@ Projects
 - [Gaze Redirection](https://mp.weixin.qq.com/s/Z7UxfeZ3JkKY7TgYI6gHXQ)
 - Real-Time Image & Video Super-Resolution
 - Automated Drawing System for Tencent Meeting Rooms
-- Immersive 3D Video Conference System
+- [Immersive 3D Video Conference System](https://meeting.tencent.com/no-glasses-3d/)
 - Multimodal application for Tencent Yuanbao Application
 
 Publications
 ------
+- **REPARO: Compositional 3D Assets Generation with Differentiable 3D Layout Alignment** <br> Haonan Han1, Rui Yang, Huan Liao1, Jiankai Xing, Zunnan Xu, Xiaoming Yu, Junwei Zha, Xiu Li, Wanhua Li <br> ICCV2025 \| [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Han_REPARO_Compositional_3D_Assets_Generation_with_Differentiable_3D_Layout_Alignment_ICCV_2025_paper.pdf) \| [Code](https://reparo2024.github.io/)
+
 - **Zero-shot unsupervised image-to-image translation via exploiting semantic attributes** <br> Yuanqi Chen, **Xiaoming Yu**, Shan Liu, Wei Gao, Ge Li <br> ICV \| [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885622001184)
 
 - **Deep Image Spatial Transformation for Person Image Generation** <br> Yurui Ren, **Xiaoming Yu**, Junming Chen, Thomas H Li, Ge Li <br> CVPR2020 \| [Paper](https://arxiv.org/pdf/2003.00696.pdf) \| [Code](https://github.com/RenYurui/Global-Flow-Local-Attention)
