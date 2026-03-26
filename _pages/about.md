@@ -25,9 +25,9 @@ Projects
 
 Publications
 ------
-- **DAQ: Delta-Aware Quantization for Post-Training LLM Weight Compression** <br> **Xiaoming Yu**, Shize Tang, Guanghua Yu, Linchuan Xie, Song Liu, Jianchen Zhu, Feng Li <br> Technical Report \| [Paper](https://arxiv.org/pdf/2603.22324) \| [Code](https://github.com/Tencent/AngelSlim)
+- **DAQ: Delta-Aware Quantization for Post-Training LLM Weight Compression** <br> **Xiaoming Yu**, Shize Tang, Guanghua Yu, Linchuan Xie, Song Liu, Jianchen Zhu, Feng Li <br> Technical Report \| [Paper](https://arxiv.org/pdf/2603.22324) \| [Code](https://github.com/Tencent/AngelSlim/blob/main/docs/source/features/quantization/daq.md)
 
-- **REPARO: Compositional 3D Assets Generation with Differentiable 3D Layout Alignment** <br> Haonan Han, Rui Yang, Huan Liao, Jiankai Xing, Zunnan Xu, Xiaoming Yu, Junwei Zha, Xiu Li, Wanhua Li <br> ICCV2025 \| [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Han_REPARO_Compositional_3D_Assets_Generation_with_Differentiable_3D_Layout_Alignment_ICCV_2025_paper.pdf) \| [Code](https://reparo2024.github.io/)
+- **REPARO: Compositional 3D Assets Generation with Differentiable 3D Layout Alignment** <br> Haonan Han, Rui Yang, Huan Liao, Jiankai Xing, Zunnan Xu, **Xiaoming Yu**, Junwei Zha, Xiu Li, Wanhua Li <br> ICCV2025 \| [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Han_REPARO_Compositional_3D_Assets_Generation_with_Differentiable_3D_Layout_Alignment_ICCV_2025_paper.pdf) \| [Code](https://reparo2024.github.io/)
 
 - **Zero-shot unsupervised image-to-image translation via exploiting semantic attributes** <br> Yuanqi Chen, **Xiaoming Yu**, Shan Liu, Wei Gao, Ge Li <br> ICV \| [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885622001184)
 
