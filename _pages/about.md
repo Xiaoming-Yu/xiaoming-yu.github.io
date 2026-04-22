@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 As an AI researcher, I focus on image processing, 3D reconstruction and multimodal large language models.
-
 I received my Master of Science degree from Peking Univerity, under the guidance of Professor **Ge Li** at the [Digital Media Research Center](http://web.pkusz.edu.cn/ldm/).
 I graduated with a Bachelor of Engineering in Computer Science and Technology from Dalian University of Technology.
 
