@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior researcher at Tencent.
-My primary research interests lie in Image Processing, 3D Reconstruction, and Multimodal LLMs.
+As an AI researcher, I focus on image processing, 3D reconstruction and multimodal large language models.
 
 I received my Master of Science degree from Peking Univerity, under the guidance of Professor **Ge Li** at the [Digital Media Research Center](http://web.pkusz.edu.cn/ldm/).
 I graduated with a Bachelor of Engineering in Computer Science and Technology from Dalian University of Technology.
